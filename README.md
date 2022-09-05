@@ -1,2 +1,3 @@
-# CriandoUmaPagina
- 
+# Recriando-Netflix
+
+Realizei o projeto durante um BootCamp de HTML, CSS e JS feito pela DIO, o Objeito do Projeto era reecriar um site com base do que foi estudado durante as aulas do modulo...
